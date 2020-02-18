@@ -10,3 +10,6 @@ https://github.com/signalarun/MVVMNews
 Server side search
 https://github.com/Oclemy/RetrofitServerSideSearch
 
+How to create searchview on Google maps
+https://youtu.be/iWYsBDCGhGw
+
