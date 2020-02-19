@@ -11,5 +11,9 @@ Server side search :
 https://github.com/Oclemy/RetrofitServerSideSearch
 https://github.com/aj019/Movify
 
+New Activity from searchview
+https://gist.github.com/vxhviet/1784eb2b326e6e0cef3d
+
 How to create searchview on Google maps
 https://youtu.be/iWYsBDCGhGw
+
