@@ -13,4 +13,3 @@ https://github.com/aj019/Movify
 
 How to create searchview on Google maps
 https://youtu.be/iWYsBDCGhGw
-
