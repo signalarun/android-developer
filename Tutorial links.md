@@ -1,6 +1,9 @@
 Andoid Paging using Jetpack
-https://codelabs.developers.google.com/codelabs/android-paging/#0
-https://github.com/anitaa1990/PagingLibrary-Sample
+ 1. https://codelabs.developers.google.com/codelabs/android-paging/#0
+
+ 2. https://github.com/anitaa1990/PagingLibrary-Sample
+
+ 3. https://proandroiddev.com/8-steps-to-implement-paging-library-in-android-d02500f7fffe
 
 Android Pagging with Retrofit
 https://www.simplifiedcoding.net/android-paging-library-tutorial/
