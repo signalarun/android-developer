@@ -1,3 +1,5 @@
+Recycler List View 
+ 1. https://guides.codepath.com/android/using-the-recyclerview#itemanimator
 Andoid Paging using Jetpack
  1. https://codelabs.developers.google.com/codelabs/android-paging/#0
 
