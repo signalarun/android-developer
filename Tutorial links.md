@@ -20,11 +20,14 @@ https://github.com/signalarun/MVVMNews
 
 Server side search :
  1. https://github.com/Oclemy/RetrofitServerSideSearch
-
- 2. https://github.com/aj019/Movify
-
-New Activity from searchview
-https://gist.github.com/vxhviet/1784eb2b326e6e0cef3d
+ 
+ 2. https://isamatov.com/search-view-easy/
+ 
+ 3.https://github.com/aj019/Movify
+ 
+ 4. New Activity from searchview
+ 
+    https://gist.github.com/vxhviet/1784eb2b326e6e0cef3d
 
 How to create searchview on Google maps
 https://youtu.be/iWYsBDCGhGw
