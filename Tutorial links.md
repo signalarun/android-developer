@@ -20,6 +20,7 @@ https://github.com/signalarun/MVVMNews
 
 Server side search :
 https://github.com/Oclemy/RetrofitServerSideSearch
+
 https://github.com/aj019/Movify
 
 New Activity from searchview
