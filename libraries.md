@@ -8,4 +8,8 @@
 
    https://github.com/tuesda/CircleRefreshLayout
    
+9. Snackbars
+   https://github.com/danimahardhika/cafebar
+   https://github.com/matecode/Snacky
+   
 
