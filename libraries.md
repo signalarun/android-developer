@@ -4,12 +4,15 @@
 4. https://github.com/orhanobut/dialogplus
 5. https://github.com/Ramotion/cardslider-android
 6. https://github.com/Ramotion/android-ui-animation-components-and-libraries
-8. Circle refresh list
+8. ## Circle refresh list
 
    https://github.com/tuesda/CircleRefreshLayout
    
-9. Snackbars
+9. ## Snackbars
+
    https://github.com/danimahardhika/cafebar
+   
    https://github.com/matecode/Snacky
+10. https://github.com/halysongoncalves/Pugnotification   
    
 
