@@ -1,7 +1,7 @@
-Recycler List View 
+### Recycler List View 
  1. https://guides.codepath.com/android/using-the-recyclerview#itemanimator
  
-Andoid Paging using Jetpack
+### Andoid Paging using Jetpack
  1. https://codelabs.developers.google.com/codelabs/android-paging/#0
 
  2. https://github.com/anitaa1990/PagingLibrary-Sample
@@ -12,13 +12,13 @@ Andoid Paging using Jetpack
  
  5. https://www.zoftino.com/pagination-in-android-using-paging-library#itemkeyeddatasource-example
 
-Android Pagging with Retrofit
+### Android Pagging with Retrofit
 https://www.simplifiedcoding.net/android-paging-library-tutorial/
 
-Loading data from network to list with Recycle view
+### Loading data from network to list with Recycle view
 https://github.com/signalarun/MVVMNews
 
-Server side search :
+### Server side search :
  1. https://github.com/Oclemy/RetrofitServerSideSearch
  
  2. https://isamatov.com/search-view-easy/
@@ -32,6 +32,9 @@ Server side search :
  5. https://mobikul.com/android-inflating-search-suggestions-from-network/ 
 
 
-How to create searchview on Google maps
+### How to create searchview on Google maps
 https://youtu.be/iWYsBDCGhGw
+
+### How to implement swipe refresh?
+https://guides.codepath.com/android/implementing-pull-to-refresh-guide
 
