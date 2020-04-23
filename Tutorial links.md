@@ -38,3 +38,9 @@ https://youtu.be/iWYsBDCGhGw
 ### How to implement swipe refresh?
 https://guides.codepath.com/android/implementing-pull-to-refresh-guide
 
+### Carousel
+1. https://github.com/sayyam/carouselview
+2. https://github.com/Zeuskartik/MediaSliderView?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=7803
+3. https://github.com/denzcoskun/ImageSlideshow?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=7587
+
+
