@@ -8,11 +8,22 @@
 
    https://github.com/tuesda/CircleRefreshLayout
    
-9. ## Snackbars
+9. ### Snackbars
 
    https://github.com/danimahardhika/cafebar
    
    https://github.com/matecode/Snacky
-10. https://github.com/halysongoncalves/Pugnotification   
+10. https://github.com/halysongoncalves/Pugnotification 
+
+### Carousel
+1. https://github.com/sayyam/carouselview
+2. https://github.com/Zeuskartik/MediaSliderView?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=7803
+3. https://github.com/denzcoskun/ImageSlideshow?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=7587
+4. https://github.com/jama5262/CarouselView
+
+### Progress
+1. https://github.com/lopspower/CircularFillableLoaders
+2. https://github.com/Todd-Davies/ProgressWheel
+
    
 
