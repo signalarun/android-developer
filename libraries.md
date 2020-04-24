@@ -1,9 +1,11 @@
 1. https://github.com/sacot41/SCViewPager
 2. https://github.com/glomadrian/material-code-input
-3. https://github.com/81813780/AVLoadingIndicatorView
-4. https://github.com/orhanobut/dialogplus
-5. https://github.com/Ramotion/cardslider-android
-6. https://github.com/Ramotion/android-ui-animation-components-and-libraries
+4. https://github.com/Ramotion/cardslider-android
+5. https://github.com/Ramotion/android-ui-animation-components-and-libraries
+
+### Dialog
+1. https://github.com/orhanobut/dialogplus
+2. https://github.com/pedant/sweet-alert-dialog
 
 ### Layouts
 #### Circle refresh list
@@ -29,6 +31,11 @@
 ### Progress
 1. https://github.com/lopspower/CircularFillableLoaders
 2. https://github.com/Todd-Davies/ProgressWheel
+3. https://github.com/JorgeCastilloPrz/FABProgressCircle
+4. https://github.com/81813780/AVLoadingIndicatorView
+### Menu
+1. https://github.com/Yalantis/Context-Menu.Android
+2. https://github.com/Nightonke/BoomMenu
 
    
 
