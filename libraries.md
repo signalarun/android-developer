@@ -9,7 +9,9 @@
 #### Circle refresh list
    https://github.com/tuesda/CircleRefreshLayout
 #### Foldable
-   https://github.com/worldline/FoldableLayout
+   https://github.com/worldline/FoldableLayout   
+#### Interactive window for Google Maps
+   https://github.com/Appolica/InteractiveInfoWindowAndroid
    
 ### Snackbars
    1. https://github.com/danimahardhika/cafebar
