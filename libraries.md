@@ -37,5 +37,7 @@
 1. https://github.com/Yalantis/Context-Menu.Android
 2. https://github.com/Nightonke/BoomMenu
 
+### OTP management
+1. [send OTP](https://github.com/MSG91/sendotp-android)
    
 
