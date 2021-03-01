@@ -33,6 +33,7 @@
 2. https://github.com/Todd-Davies/ProgressWheel
 3. https://github.com/JorgeCastilloPrz/FABProgressCircle
 4. https://github.com/81813780/AVLoadingIndicatorView
+5. https://github.com/timqi/SectorProgressView
 ### Menu
 1. https://github.com/Yalantis/Context-Menu.Android
 2. https://github.com/Nightonke/BoomMenu
